@@ -1,6 +1,7 @@
 name: Best Places to Work
-description: Employee engagement and eNPS survey platform with live dashboards,
-  benchmarks and certification for organizations in Thailand.
+description: Find out how your team really feels, wherever they work. Staff
+  answer anonymously in Thai or English by email, SMS, QR code or link, and HR
+  sees 26 engagement drivers and eNPS by team on a live dashboard.
 source_url: https://engagement.workventure.com/
 category:
   - employee-engagement
@@ -10,7 +11,9 @@ tags:
   - engagement
 collections: []
 featured: false
-updated_at: 2026-11-17 13:31
+updated_at: 2026-11-20 09:05
 status: pending
 submitted_by: d086180c-46c8-4235-ae15-7d0848033379
 submitted_at: 2026-11-17 13:31
+reviewed_by: admin
+reviewed_at: 2026-11-17 13:31
